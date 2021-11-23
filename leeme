@@ -1,0 +1,3 @@
+1. Copiar archivo en la carpeta del XAMPP o donde se ejecute el Apache
+2. En el branch BD esta la base de datos, cargar esta en el mysql
+3. ejecutar el programa con el link http://localhost/worki/login.php
